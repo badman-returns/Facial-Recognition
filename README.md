@@ -1,4 +1,4 @@
-# FaCeREc0n
+# Facial Recognition
 
 The Facoal_Detection_RealTime.py contains the code written for the project.
 The haarcascade_frontalface_default.xml files contains supported data required for the project.
